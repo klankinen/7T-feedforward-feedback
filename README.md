@@ -23,8 +23,8 @@ This repository contains one .m file which reproduces the main results in the ma
     *   The model also plot predicts values from the LME model.     
 
 ***
-## Depth_Data
-The ‘Depth_Data’ directory contains 7T fMRI depth profiles collected from 13 human participants who were presented with auditory and visual stimuli. The data contains average of the BOLD %-signal-change on each ROI for each subject. 
+## Data
+The ‘Data’ directory contains 7T fMRI depth profiles collected from 13 human participants who were presented with auditory and visual stimuli. The data contains average of the BOLD %-signal-change on each ROI for each subject. 
 *	<span>**depth_profiles.mat**</span> with dimensions surfaces x subjects x conditions x ROIs x hemispheres
 
 ***
